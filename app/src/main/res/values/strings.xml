@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NYTimes</string>
+    <string name="title_activity_article_detailview">ArticleDetailview</string>
+</resources>
