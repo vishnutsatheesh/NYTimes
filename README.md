@@ -1,5 +1,5 @@
 # NYTimes-master
-A simple android app with implementation NY Times most popular list 
+A simple android app with implementation NY times API
 
 <img src="https://lh3.googleusercontent.com/-2yXqGl5ZcsA/W79Btf7em3I/AAAAAAAACTw/ZT6MZlPcKEcmzzl5dTiB4EOuk3tck3dOQCL0BGAYYCw/h1280/3612084825895742145%253Faccount_id%253D33" width="200">
 
