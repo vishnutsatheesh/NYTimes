@@ -6,7 +6,7 @@ A simple android app with implementation NY times API
 
 API : http://api.nytimes.com/svc/mostpopular/v2/mostviewed/all-sections/7.json?apikey=sample-key
 
-Create you key in https://developer.nytimes.com
+Courtsey to https://developer.nytimes.com
 
 
 
