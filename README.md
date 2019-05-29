@@ -1,5 +1,5 @@
 # NYTimes-master
-A simple android app with implementation NY times API
+A Kotlin sample android app with implementation NY times API
 
 <img src="https://lh3.googleusercontent.com/-EJsInu_Opg4/XK7xEHaaPbI/AAAAAAAAVZc/SEA690MfbtkGjEfXScbY4jDbmEUirMXrQCK8BGAs/s0/2019-04-11.jpg" width="200">
 
